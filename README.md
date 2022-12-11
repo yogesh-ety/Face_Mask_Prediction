@@ -1,2 +1,2 @@
 # computer-vision
-Live camera mask Detector
+Detecting face masks using Python, Keras, OpenCV on real video streams 
